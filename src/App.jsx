@@ -169,7 +169,7 @@ function App() {
           </div>
         </div>
         <div
-          className="w-screen h-screen bg-[#FBFFFE] text-[#1B1B1E] mt-[100vh] flex justify-center items-center"
+          className="w-screen h-screen bg-[#FBFFFE] text-[#1B1B1E] flex justify-center items-center"
           ref={middleManContainer}
         >
           <div className="w-full h-full flex flex-col items-center justify-center max-w-[1400px] px-16">
@@ -330,7 +330,7 @@ function App() {
         </div>
 
         <div
-          className="w-screen h-screen bg-[#FBFFFE] text-[#1B1B1E] mt-[400vh] flex justify-center items-center"
+          className="w-screen h-screen bg-[#FBFFFE] text-[#1B1B1E] flex justify-center items-center"
           ref={testimonyContainer}
         >
           <div className="w-full h-full flex flex-col items-center justify-center max-w-[1400px] px-16">
